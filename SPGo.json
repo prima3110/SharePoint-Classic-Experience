@@ -1,0 +1,13 @@
+{
+  "sourceDirectory": "src",
+  "sharePointSiteUrl": "https://getsmartua.sharepoint.com/sites/SMARTacademy51JuniorFront_ropry",
+  "workspaceRoot": "d:\\Smart\\exam",
+  "publishWorkspaceOptions": {
+    "destinationFolder": "/",
+    "globPattern": "d:\\Smart\\exam\\src\\**\\*.*",
+    "localRoot": "d:\\Smart\\exam\\src"
+  },
+  "remoteFolders": ["/SiteAssets/**/*.*"],
+  "publishingScope": "Major",
+  "authenticationType": "Digest"
+}
